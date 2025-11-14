@@ -89,7 +89,7 @@ Desenvolvemos um **sistema IoT inteligente** que atua como um assistente de bem-
 
 ### ⚙ **Vista do Circuito Montado**
 
-![alt text](wokwi-esp32.png)
+([Projeto montado no WokWi](https://imgur.com/a/ABexd42.png)
 
 *Sistema completo de monitoramento ambiental com todos os componentes interconectados*
 
