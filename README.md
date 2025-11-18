@@ -89,20 +89,18 @@ Desenvolvemos um **sistema IoT inteligente** que atua como um assistente de bem-
 
 ### ⚙ **Vista do Circuito Montado**
 
-([Projeto montado no WokWi](https://imgur.com/a/ABexd42.png)
+![](/img/wokwi-esp32.png)
 
 *Sistema completo de monitoramento ambiental com todos os componentes interconectados*
 
+- [**🌐 Simulação Wokwi**](https://wokwi.com/projects/447616149249531905)
+
 ## 🎥 Vídeo Demonstrativo
 
-<div align="center">
-https://img.shields.io/badge/%F0%9F%8E%AC_Assistir_V%C3%ADdeo_Completo-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+- [**🎥 Vídeo Demonstrativo**](https://youtu.be/-4MreAQZoRE?si=Hv53JupwtyVEPfrn)  
 
-https://./assets/video-thumbnail.jpg
+Clique no link acima para assistir à demonstração completa do projeto
 
-Clique na imagem acima para assistir à demonstração completa do projeto
-
-</div>
 
 ## 🔧 **Instalação e Uso**
 
@@ -165,13 +163,6 @@ const char* TOPICO_PUBLISH = "/TEF/device007/attrs";
 |------|--------|--------------|
 | **Júlio César Augusto Vieira** | 563366 | Arquitetura e Implementação |
 | **João Batista Lima Neto** | 563426 | Documentação e Testes |
-
-## 🔗 **Links Úteis**
-
-- [**🌐 Simulação Wokwi**](https://wokwi.com/projects/seu-link-aqui)
-- [**🎥 Vídeo Demonstrativo**](https://youtube.com/seu-link-aqui)  
-- [**💻 Código Fonte**](https://github.com/seu-usuario/seu-repositorio)
-
 
 ---
 
